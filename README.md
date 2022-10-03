@@ -5,4 +5,4 @@ git clone https://github.com/Adnan-25801/ADNAN-12
 
 cd ADNAN-12
 
-pyton 4.py
+python 4.py
